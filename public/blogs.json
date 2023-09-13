@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 12345,
+        "Cover": "https://i.ibb.co/cDXNg2y/afif.jpg",
+        "Title": "The Enigmatic Adventure",
+        "Author": "Jane Doe",
+        "Author_Image": "https://example.com/jane_doe.jpg",
+        "Posted_Date": "2023-09-13",
+        "Reading_Time": "25 minutes",
+        "Hashtags": ["#Adventure", "#Mystery", "#Fiction"]
+    },
+    {
+        "ID": 67890,
+        "Cover": "https://i.ibb.co/cDXNg2y/afif.jpg",
+        "Title": "Infinite Horizons",
+        "Author": "John Smith",
+        "Author_Image": "https://example.com/john_smith.jpg",
+        "Posted_Date": "2023-09-12",
+        "Reading_Time": "30 minutes",
+        "Hashtags": ["#SciFi", "#Exploration", "#Novel"]
+    },
+    {
+        "ID": 54321,
+        "Cover": "https://i.ibb.co/cDXNg2y/afif.jpg",
+        "Title": "Whispers in the Shadows",
+        "Author": "Emily Johnson",
+        "Author_Image": "https://example.com/emily_johnson.jpg",
+        "Posted_Date": "2023-09-11",
+        "Reading_Time": "20 minutes",
+        "Hashtags": ["#Horror", "#Suspense", "#ShortStory"]
+    },
+    {
+        "ID": 98765,
+        "Cover": "https://i.ibb.co/cDXNg2y/afif.jpg",
+        "Title": "A Taste of History",
+        "Author": "Michael Anderson",
+        "Author_Image": "https://example.com/michael_anderson.jpg",
+        "Posted_Date": "2023-09-10",
+        "Reading_Time": "15 minutes",
+        "Hashtags": ["#History", "#Food", "#Cuisine"]
+    },
+    {
+        "ID": 24680,
+        "Cover": "https://i.ibb.co/cDXNg2y/afif.jpg",
+        "Title": "Into the Wilderness",
+        "Author": "Sarah White",
+        "Author_Image": "https://example.com/sarah_white.jpg",
+        "Posted_Date": "2023-09-09",
+        "Reading_Time": "40 minutes",
+        "Hashtags": ["#Adventure", "#Nature", "#Wildlife"]
+    }
+]
